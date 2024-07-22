@@ -1,0 +1,22 @@
+body{
+    background-image: url('voters.jpg');
+    background-size:auto;
+    background-position:center;
+    margin-top: 50px;
+    background-repeat: no-repeat;
+    opacity: 90%;
+}
+.error{
+    color: #FF0000;
+}
+span.error{
+    display: inline-block; /* Display the error spans as inline-block */
+    margin-left: 10px; /* Add some space between input fields and error messages */
+}
+.container {
+    border: 1px solid #ccc; /* Add border */
+    border-radius: 10px; /* Optional: Add border radius for rounded corners */
+    padding: 0px;
+    width: 800px;
+    background-color: rgb(152, 210, 156); /* Optional: Add padding for better spacing */
+}
